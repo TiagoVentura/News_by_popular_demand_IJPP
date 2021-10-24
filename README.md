@@ -7,7 +7,7 @@ Replication materials for "News by Popular Demand: Ideology, Issue Attention, an
 Social media news sharing has become a central subject of scholarly research in communication studies. To test current theories, it is of the utmost importance to estimate meaningful parameters of news sharing behavior from observational data. In this article, we retrieve measures of cognitive congruence (ideology), issue salience (attention), and media prevalence (reputation) to explain news sharing in social media. We exemplify the usefulness of the model with an analysis of the relationship between ideology and issue attention. We test the performance of the model using data from Brazil, Argentina, and the US. 
 
 
-The latest pre-print can be found [here](). The published version is [here]()
+The latest pre-print can be found [here]("ACV_NBPD.pdf"). 
 
 ## Tutorial 
 
@@ -15,8 +15,8 @@ This README file provides an overview of the replications materials for the arti
 
 ## Codes
 
-- `ACV_main_Resul.R`: Implements all the results presented in the paper. 
+- `analysis_three_cases.R`: Implements all the results presented in the paper. 
 
-- `ACV_model.R`: Impements our News Sharing Model using a multinomial poisson specification, with random parameters at the user and media level. 
+- `news_sharing_models.R`: Impements our News Sharing Model using a multinomial poisson specification, with random parameters at the user and media level. 
 
 
